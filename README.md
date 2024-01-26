@@ -23,13 +23,14 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://jskim-dev.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://jskim-dev.tistory.com/"> </a>
          <a href=https://reliable-galaxy-0fb.notion.site/7e1f2afe15c24525979d9be6291f1711?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/7e1f2afe15c24525979d9be6291f1711"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
+    </div>  
+        <br> 
+    <div align= "center"></div> 
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=juseog0373&show_icons=true&theme=dark)"/>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juseog0373&layout=compact&theme=dark"
-           /> </div> 
+        <img src="https://github-readme-stats.vercel.app/api?username=juseog0373&show_icons=true&theme=dark"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juseog0373&layout=compact&theme=dark"/> 
+    </div> 
     </div>
     
