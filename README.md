@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💁🏻‍♂️ Introduce  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 오늘보다 내일 더 잘하는 개발자가 되고싶은 주니어 개발자 김준석입니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 오늘보다 내일 더 잘하는 개발자가 되고싶은 주니어 벡엔드 개발자 김준석입니다! </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
