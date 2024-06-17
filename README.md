@@ -37,5 +37,4 @@
         <img src="https://github-readme-stats.vercel.app/api?username=juseog0373&show_icons=true&theme=radical"/> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juseog0373&layout=compact&theme=onedark"/> 
     </div> 
-    </div>
-    
+</div>
