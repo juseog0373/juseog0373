@@ -3,11 +3,7 @@
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💁🏻‍♂️ Introduce  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> - 안녕하세요! 주니어 백엔드 개발자 김준석입니다.
-- 개발을 하기 전부터 새로운 것을 배우는 재미에 살다가, 지금은 개발에 빠져 있습니다.
-- **꾸준함의 중요성**을 알고 있기에 학습한 것을 Github에 남기고, 기술 블로그 운영을 하고 있습니다.
-- Clean Code, 비효율적인 프로세스를 개선하는 것을 좋아합니다.
-- **추상과 구체의 반복**을 통해 계획하고 실천합니다.
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요! 주니어 백엔드 개발자 김준석입니다.
     </div> 
 </div>
 <div align= "center">
