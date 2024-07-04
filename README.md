@@ -21,7 +21,7 @@
     </div>
 </div>
 <div> 
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✅: Languages </h3> 
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✅ Languages </h3> 
     <div> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juseog0373&layout=compact&theme=onedark"/> 
     </div> 
