@@ -15,9 +15,6 @@
     <a href="https://jskim-dev.tistory.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
     </a>
-    <a href="https://www.notion.so/7e1f2afe15c24525979d9be6291f1711" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-    </a>
 </div>
 <div> 
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✅ Languages </h3> 
